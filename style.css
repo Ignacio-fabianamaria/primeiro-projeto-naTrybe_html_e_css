@@ -2,13 +2,17 @@ body {
   background-color: rgb(253, 251, 251);
 }
 #minha_descricao {
-  width: 30%;
+  width: 30%;;
   padding-left: 20px;
   margin-top: 115px;
   float:right;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-style: italic;
+  font-size: 16px;
   background-color:burlywood;
-  text-align:left;
+  color:#14213d;
+  text-align:center;
+  line-height:25px;
 }
 #cabecalho {
   top: 0px;
@@ -24,6 +28,7 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 48px;
   color: chocolate;
+  letter-spacing: 10px;
 
 
 }
