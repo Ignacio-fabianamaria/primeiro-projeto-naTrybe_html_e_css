@@ -45,3 +45,12 @@ body {
   font-size: 13px;
 
 }
+#rodape{
+  background-color: #14213d;
+  color: chocolate;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 14px;
+  letter-spacing: 5px;
+  height: 25px;
+  text-align: center;
+}
