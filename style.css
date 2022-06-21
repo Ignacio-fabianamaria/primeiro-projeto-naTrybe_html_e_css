@@ -2,12 +2,13 @@ body {
   background-color: rgb(253, 251, 251);
 }
 #minha_descricao {
-  width: 28%;
+  width: 30%;
   padding-left: 20px;
   margin-top: 115px;
   float:right;
   font-style: italic;
-  background-color:burlywood
+  background-color:burlywood;
+  text-align:left;
 }
 #cabecalho {
   top: 0px;
