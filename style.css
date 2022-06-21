@@ -5,6 +5,7 @@ body {
 #cabecalho {
     background-color: #14213d;
     padding-top: 0%;
+    position:fixed;
     text-align: center;
     height: 120px;
     width: 99%;
