@@ -11,45 +11,70 @@ body {
   width: 99%;
 }
 
+
 #titulo {
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 48px;
   color: chocolate;
   letter-spacing: 10px;
-
-
 }
+#menu{
+  background-color:chocolate;
+  text-align: left;
+  
+}
+.links {
+  display: inline;
+  font-size: 18px;
+  margin: 0 0 0 20px;  
+     
+}
+
+
 .descricao{
   background-color: burlywood;
 }
-#minha_descricao {
-  width: 30%;;
-  padding-left: 20px;
-  margin-top: 115px;
-  float:right;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-style: italic;
-  font-size: 16px;
-  color:#14213d;
-  text-align:center;
-  line-height:25px;
-}
 
+#minha_foto_perfil{
+  float:left;
+  
+  
+  
+  
+  
+}
 #minha_foto {
   padding: 5px;
   margin-top: 110px;
-  width: 230px;
+  width: 130px;
   border-radius: 40px;
   display:inline-block;
-
+  
+  
 }
-
 #descritminha_foto {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 13px;
 
 }
+
+#minha_descricao {
+  width: 75%;
+  padding-left: 20px;
+  margin-top: 160px;
+  float:right;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 16px;
+  color:#14213d;
+  text-align:justify;
+  line-height:25px;
+  
+}
+
+
+
 #rodape{
   background-color: #14213d;
   color: chocolate;
