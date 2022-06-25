@@ -45,6 +45,14 @@ body {
   border-bottom: 5px;
   
 }
+#minha_descrição{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  line-height: 5px;
+  text-align: justify;
+
+}
+
 .lado-direito{
   float:right;
     width: 50%;
