@@ -1,5 +1,6 @@
 body {
   background-color: rgb(253, 251, 251);
+  font-family: 'Signika Negative', sans-serif;
 }
 
 #cabecalho {
@@ -14,7 +15,7 @@ body {
 
 #titulo {
   text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Signika Negative', sans-serif;
   font-size: 48px;
   color: chocolate;
   letter-spacing: 10px;
@@ -44,12 +45,11 @@ body {
   border-radius: 60px;
   display:inline-block;
   border-bottom: 5px;
-  
-  
-  
+
 }
+
 #minha_descrição{
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Signika Negative', sans-serif;
   font-size: 20px;
   line-height: 5px;
   text-align: justify;
@@ -105,7 +105,7 @@ body {
 #rodape{
   background-color: #14213d;
   color: chocolate;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Signika Negative', sans-serif;
   font-size: 14px;
   letter-spacing: 5px;
   height: 28px;
