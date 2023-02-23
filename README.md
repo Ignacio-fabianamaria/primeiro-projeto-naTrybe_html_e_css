@@ -1,13 +1,22 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+#  Projeto Lições Aprendidas! 📚  
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<div align="center">
+  
+![lições](lessons.gif)
+  
+</div> 
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## :memo: Descrição
+<p>Projeto Lições Aprendidas.</p>
+ 
+## :books: Funcionalidades
+* <b>Funcionalidade </b>: Projeto Lições Aprendidas é um site que contem informações sobre o meu aprendizado como estudando na Trybe. Foi o primeiro projeto como estudante de desenvolvimento web e teve como objetivo proposto iniciar a prática com a estrutura de html semântico.
+
+## :wrench: Tecnologias utilizadas
+* HTML;
+* CSS;
+
+
+## :soon: Implementação futura
+* tornar a aplicação responsiva
+
